@@ -16,16 +16,6 @@
 
 ---
 
-### 🔧 What I Do
-
-- 🧰 Automotive Software Engineering  
-- 🚘 CANbus Reverse Engineering & Interfacing  
-- 🛠️ Custom ECU Flashing & Security Unlocks  
-- 🧪 Diagnostic Protocol Implementation  
-- 💻 Tooling for Mechanics & Tuners
-
----
-
 ### 📬 Contact
 
 📞 **0434 645 485**  
