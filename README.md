@@ -4,9 +4,9 @@
 
 # Jack Leighton 
 
-🚗 **Specialist Automotive Solutions**  
-🛠️ Diagnostics · Module Programming · CANbus Interfacing · ECU Software - Communication Protocols  
-🌐 [testerpresent.com.au](https://testerpresent.com.au)
+ **Specialist Automotive Solutions**  
+ Diagnostics · Module Programming · CANbus Interfacing · ECU Software - Communication Protocols  
+ [testerpresent.com.au](https://testerpresent.com.au)
 
 ---
 
@@ -18,9 +18,9 @@
 
 ### 📬 Contact
 
-📞 **0434 645 485**  
-📧 [jakka351@outlook.com](mailto:jakka351@outlook.com)  
-🌐 [testerpresent.com.au](https://testerpresent.com.au)
+ **0434 645 485**  
+ [jakka351@outlook.com](mailto:jakka351@outlook.com)  
+ [testerpresent.com.au](https://testerpresent.com.au)
 
 ---
 
