@@ -16,13 +16,7 @@
 
 ---
 
-###  Contact
 
- **0434 645 485**  
- [jakka351@outlook.com](mailto:jakka351@outlook.com)  
- [testerpresent.com.au](https://testerpresent.com.au)
-
----
 
 
 <!--
