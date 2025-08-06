@@ -2,10 +2,37 @@
 <img width="1326" height="201" alt="image" src="https://github.com/user-attachments/assets/d6519415-9430-4fa9-aedf-41249296c096" />
 </a>
 
+# 👨‍🔧 Jack Leighton 
 
-![image](https://github.com/user-attachments/assets/4d46fc81-1391-4114-9ef5-66dd39fe651d)
+🚗 **Specialist Automotive Solutions**  
+🛠️ Diagnostics · Module Programming · CANbus Interfacing · ECU Software - Communication Protocols  
+🌐 [testerpresent.com.au](https://testerpresent.com.au)
 
+---
 
+### 🧠 About Me
+ **J2534,** **CAN,** **UDS,** Specialist.
+ **Heavy Diesel Mechanic**
+
+---
+
+### 🔧 What I Do
+
+- 🧰 Automotive Software Engineering  
+- 🚘 CANbus Reverse Engineering & Interfacing  
+- 🛠️ Custom ECU Flashing & Security Unlocks  
+- 🧪 Diagnostic Protocol Implementation  
+- 💻 Tooling for Mechanics & Tuners
+
+---
+
+### 📬 Contact
+
+📞 **0434 645 485**  
+📧 [jakka351@outlook.com](mailto:jakka351@outlook.com)  
+🌐 [testerpresent.com.au](https://testerpresent.com.au)
+
+---
 
 
 <!--
