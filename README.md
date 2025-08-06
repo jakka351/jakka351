@@ -12,7 +12,7 @@
 
 ###  About Me
  **J2534,** **CAN,** and **UDS** Specialist
- **Heavy Diesel Mechanic**
+ 
 
 ---
 
