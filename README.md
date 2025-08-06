@@ -2,7 +2,7 @@
 <img width="1326" height="201" alt="image" src="https://github.com/user-attachments/assets/d6519415-9430-4fa9-aedf-41249296c096" />
 </a>
 
-# 👨‍🔧 Jack Leighton 
+# Jack Leighton 
 
 🚗 **Specialist Automotive Solutions**  
 🛠️ Diagnostics · Module Programming · CANbus Interfacing · ECU Software - Communication Protocols  
@@ -10,8 +10,8 @@
 
 ---
 
-### 🧠 About Me
- **J2534,** **CAN,** **UDS,** Specialist.
+###  About Me
+ **J2534,** **CAN,** **UDS,** Specialist.  
  **Heavy Diesel Mechanic**
 
 ---
