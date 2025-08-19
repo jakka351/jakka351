@@ -5,16 +5,7 @@
 # Jack Leighton 
 
  **Specialist Automotive Solutions**  
- Diagnostics · Module Programming · CANbus Interfacing · ECU Software - Communication Protocols  
- [testerpresent.com.au](https://testerpresent.com.au)
-
----
-
-###  About Me
- **J2534,** **CAN,** and **UDS** Specialist.  
- 
-**Loves the ISO15765-2!**
- 
+ Diagnostics · Module Programming · CANbus Interfacing · Software Development 
 
 ---
 
