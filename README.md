@@ -7,6 +7,9 @@
  **Specialist Automotive Solutions**  
  Diagnostics · Module Programming · CANbus Interfacing · Software Development 
 
+
+ Heavy diesel mechanic & software dev building open automotive diagnostic tools, ECU firmware utilities, and CANbus/J2534 tooling — focused on real-world workshop use, reverse-engineering, and making modern OEM modules easier to talk to and reflash.
+
 ---
 
 
